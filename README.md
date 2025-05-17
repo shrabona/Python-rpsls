@@ -20,3 +20,9 @@ A command-line game in Python inspired by *The Big Bang Theory*.
 - You input one of: `Rock`, `Paper`, `Scissor`, `Lizard`, `Spock`
 - The computer randomly picks one too
 - The winner is decided based on the rules above!
+
+- ## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shrabona/rpsls-python-game.git
+   cd rpsls-python-game
